@@ -1,0 +1,199 @@
+    [
+    {
+        "id": 1,
+        "name": "Cyberpunk Streetwear Kimono",
+        "price": 25,
+        "state": "New",
+        "photo": "https://ae01.alicdn.com/kf/Ha7b58dbac4644daabc3c6e8a3ce0de29B/Cyberpunk-ninja-Outwear-Streetwear-Coat-Harajuku-Style-Male-Tops.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Techwear Harajuku Japanese Black Jogger",
+        "price": 19,
+        "state": "Old",
+        "photo": "https://i.ebayimg.com/images/g/SeQAAOSwvWNgOb6a/s-l500.jpg"
+    },
+    {
+        
+        "id": 3,
+        "name": "MFCT Techwear Japanese Hoodie",
+        "price": 22,
+        "state": "Old",
+        "photo": "https://i.pinimg.com/originals/e4/43/4b/e4434b37a24b6fc2192e3df6aab4dc50.png"
+    },
+    {
+        "id": 4,
+        "name": "Black Techwear Hoodie",
+        "price": 16,
+        "state": "New",
+        "photo": "https://urbxn-techwear.com/wp-content/uploads/2021/10/black-techwear-hoodie-11.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cyberpunk Streetwear Pants",
+        "price": 20,
+        "state": "Old",
+        "photo": "https://ae01.alicdn.com/kf/Uc05d7a8a0f5447f8a42b75241ce2fa52H/Pantalones-con-correas-para-hombre-ropa-de-calle-japonesa-color-negro-ropa-t-cnica-Cyberpunk.jpg_Q90.jpg_.webp"
+    },
+    {
+       "id": 6,
+        "name": "Cyberpunk Streetwear Female Coat",
+        "price": 30,
+        "state": "New",
+        "photo": "https://i.pinimg.com/736x/0e/8a/fc/0e8afc15695770cfaf7b058fd2aaaeff.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cyberpunk Mask",
+        "price": 34,
+        "state": "New",
+        "photo": "https://image.winudf.com/v2/image1/Y29tLnphcC50aGVtZXMuY3liZXJwdW5rLm1hc2tfc2NyZWVuXzJfMTYzMzYxMTgzOF8wNjY/screen-2.jpg?fakeurl=1&type=.jpg"
+    },
+    {
+        "id": 8,
+        "name": "LED glasses",
+        "price": 10,
+        "state": "New",
+        "photo": "https://img.joomcdn.net/1a0b6f69e8b3f3aef6a09596fcb95f9965081634_original.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Techwear Black gloves",
+        "price": 7,
+        "state": "Old",
+        "photo": "https://ae01.alicdn.com/kf/H0e8ad953aad94ecaa9feaa9573f82f44w/Enshadower-guantes-de-medio-dedo-21aw-con-almohadilla-de-velcro-accesorios-techwear-warcore-ninjawear.jpg_Q90.jpg_.webp"
+    },
+    {
+        "id": 10,
+        "name": "Cyberpunk Streetwear Black Kimono",
+        "price": 25,
+        "state": "New",
+        "photo": "https://japanese-clothing.com/wp-content/uploads/2022/06/techwear-kimono-japanese-clothing-414.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Techwear Punk Female Outfit",
+        "price": 40,
+        "state": "New",
+        "photo": "https://i.pinimg.com/originals/7b/0c/d9/7b0cd98135d7a69fa7705e24bf86779b.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Punk Streetwear Black Skirt",
+        "price": 17,
+        "state": "Old",
+        "photo":  "https://ae01.alicdn.com/kf/S448c7cf4a220442089769804bdf3964av/Techwear-minifalda-plisada-con-cintur-n-para-mujer-estilo-Cargo-cintura-alta-estilo-Harajuku-Punk-Kpop.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Cyberpunk Dark Vest",
+        "price": 35,
+        "state": "Old",
+        "photo": "https://http2.mlstatic.com/D_NQ_NP_991698-CBT50622930212_072022-W.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Dark Techwear Oufit",
+        "price": 75,
+        "state": "New",
+        "photo": "https://i.pinimg.com/originals/5d/51/61/5d516110bc28bc8b4e38b16259c8c64c.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Casual Streetwear Style Shorts",
+        "price": 12,
+        "state": "Old",
+        "photo": "https://atlas1.co/wp-content/uploads/2021/09/Cargo-Shorts-Men-2021-Summer-Cotton-Knee-Length-Ribbons-Black-Casual-Men-Short-Pants-Streetwear-Hip-Hop-Shorts-Man-Jogge.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Cyberpunk Simple Glasses",
+        "price": 10,
+        "state": "Old",
+        "photo": "https://img.joomcdn.net/972c206ae6f53707c609be4b049b3ba425229090_original.jpeg"
+    },
+    {
+        "id": 17,
+        "name": "Cyberpunk Complete Mask",
+        "price": 50,
+        "state": "New",
+        "photo": "https://ae01.alicdn.com/kf/Hb8c5238e7180416a9655ef66d019270eH/Wireless-bluetooth-Luminous-headset-Cyberpunk-Facial-mask-Bluetooth-Earphone-Technological-Halloween-Cosplay-headset-Mask-Props.jpg_Q90.jpg_.webp"
+    },
+    {
+        "id": 18,
+        "name": "Cyberpunk Streetwear Neon Sandals",
+        "price": 25,
+        "state": "New",
+        "photo": "https://i.pinimg.com/736x/3b/c3/76/3bc376182c5b56fc310b77f95eaec06f.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Streetwear Black Sneakers",
+        "price": 40,
+        "state": "Old",
+        "photo": "https://urbxn-techwear.com/wp-content/uploads/2021/10/japanese-techwear-shoes-3.jpg"
+    },
+    {
+        "id": 20,
+        "name": "White Japanese Backpack",
+        "price": 35,
+        "state": "New",
+        "photo": "https://m.media-amazon.com/images/I/81aOsgTUQHL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Black Streetwear Minimalist Bag",
+        "price": 13,
+        "state": "Old",
+        "photo": "https://ph-test-11.slatic.net/p/8c8bda137d74e0e19f497a15ef9a8a56.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Black Streetwear Coat",
+        "price": 20,
+        "state": "New",
+        "photo": "https://i.ebayimg.com/images/g/ocEAAOSwRtxhU8At/s-l500.jpg"
+    },
+    {
+        "id": 23,
+        "name": "White Streetwear Long Cap",
+        "price": 33,
+        "state": "New",
+        "photo": "https://atlas1.co/wp-content/uploads/2021/08/11-BYBB8217S-DARK-Black-Hooded-Wizard-Vest-Coat-Men-2021Autumn-Summer-Sleeveless-Jacket-Casual-Men-Coat-Techwear-WB184-3.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Punk Female Top",
+        "price": 15,
+        "state": "New",
+        "photo": "https://ae01.alicdn.com/kf/Haf3f61e31a2e4e0cb41a1dc6a2cb3414P/Long-Sleeve-Goth-Techwear-Black-T-Shirt-Women-Drawstring-Lace-Up-Ruched-Strap-Punk-Clothes-Street.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Japanese Gray Streetwear Hoodie",
+        "price": 22,
+        "state": "Old",
+        "photo": "https://i.pinimg.com/originals/7e/8c/0f/7e8c0f1d3ea699d55a4108082381150f.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Casual Dark Streetwear Hoodie",
+        "price": 18,
+        "state": "New",
+        "photo": "https://ae01.alicdn.com/kf/H5a048fffe62f4bd19edc014926800493x/Fashion-Men-s-Hoodies-Streetwear-Techwear-Male-Women-Hip-Hop-Clothes-Black-Stylish-Punk-Casual-Ribbon.jpg_Q90.jpg_.webp"
+    },
+    {
+        "id": 27,
+        "name": "Black Streetwear Dress",
+        "price": 13,
+        "state": "Old",
+        "photo": "https://atlas1.co/wp-content/uploads/2021/09/GAMPORL-Leather-Body-Harness-Chain-Belts-For-Women-Sexy-Lingerie-Body-Bondage-Bdsm-Suspenders-Waistband-Garter-Belt-Stoc.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Cyberpunk Streetwear Mask",
+        "price": 20,
+        "state": "Old",
+        "photo": "https://64.media.tumblr.com/0cb22829d923c9e05b221bf83c0f992f/tumblr_pfdaofbqaT1u75argo1_1280.jpg"
+    }
+]
